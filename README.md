@@ -1,4 +1,4 @@
-#### wepy 1.0V 框架 templave
+#### wepy 1.0V 框架 template
 
 ```
 npm install  安装依赖
